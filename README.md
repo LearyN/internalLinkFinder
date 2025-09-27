@@ -75,6 +75,3 @@ The tool will output a CSV file with the following structure:
 ---
 
 
-
-1. 下载或复制本项目，找到提供的 exe 工具：  
-   Download/clone this project and locate the exe tool:  
